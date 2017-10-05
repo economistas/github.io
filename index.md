@@ -19,6 +19,9 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- 1992
+- 2010
+- 2017
 
 1. Numbered
 2. List
