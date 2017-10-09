@@ -3,13 +3,10 @@
 
 ### _Experiencia_
 
-
 ### **Batan Delta 2** ·_Sociedad que explota una finca forestal en PEIN Montseny_ 
-###### (_desde 20-07-2015_)
 ### **Lauria Estudio juridico**
-###### desde 10-07-2013 
 ### **Polmar Tarbes**
-###### desde  06-04-2016
+##### desde 10-07-2013 
 
 `Economista` 
 
