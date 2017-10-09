@@ -80,7 +80,7 @@ Check out our [documentation](https://help.github.com/categories/github-pages-ba
 1994-1999 · [Institut Quimic de Sarrià](http://www.iqs.edu/es/grados-ade/grado-ade)
 
 - ### **Master in New Media**
-2008-2010 · Universitat Oberta de Catalunya
+2008-2010 · [Universitat Oberta de Catalunya](http://estudios.uoc.edu/es/masters-universitarios/aplicaciones-multimedia/presentacion)
 
 - ### **Posgrado en Fiscalidad**
 2006-2007 · Universitat Oberta de Catalunya
