@@ -3,10 +3,9 @@
 
 ### _Experiencia_
 
-### **Batan Delta 2** ·_Sociedad que explota una finca forestal en PEIN Montseny_ 
-(_desde 20-07-2015_)
+### **Batan Delta 2** ·_Sociedad que explota una finca forestal en PEIN Montseny_ (_desde 20-07-2015_)
 
-Economista 
+`Economista` 
 
 - Análisis de Lindes para la Gestión Forestal, Según Escrituras y Mapas Originales, Contrastación con Catastro
 - GPS Lindes
@@ -15,9 +14,9 @@ Economista
 
 
  	
-Lauria Estudio juridico desde 10-07-2013 
+### Lauria Estudio juridico desde 10-07-2013 
 
-Polmar Tarbes 	desde  06-04-2016 	
+### Polmar Tarbes 	desde  06-04-2016 	
 
 You can use the [editor on GitHub](https://github.com/economistas/github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -45,7 +44,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and  text
 
 
 
