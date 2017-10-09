@@ -3,7 +3,7 @@
 
 ### _Experiencia_
 
-### **Batan Delta 2** ·_Sociedad que explota una finca forestal en PEIN Montseny_ ########(_desde 20-07-2015_)
+### **Batan Delta 2** ·_Sociedad que explota una finca forestal en PEIN Montseny_ ######(_desde 20-07-2015_)
 
 `Economista` 
 
