@@ -9,10 +9,15 @@
 - GPS 
 - Análisis, gestión e implementación del Plan Técnico Forestal PTF
 - Elaboración e implementación del proyecto de viabilidad económica de explotación de reservas de corcho
-- Análisis y Valoración de Inmuebles
+- Proyectos de viabilidad económica
+- Desarrollo de Intranet
+
+- Análisis y valoración del mercado inmobilario para compraventa
 - Gestión de Obras e Instalaciones eléctricas
 - Gestión de Alquileres de Inmuebles
-- Venta
+- Captación de Inquilinos
+
+- Contabilidad de Empresas
 
  	
 ### **Asesoria Fiscal Cremades**
@@ -23,9 +28,15 @@
 - Liquidación de impuesto de sociedades, IVA. Principalmente modelos 201 y 202
 - Resolución de Problemas Fiscales en la liquidación de Impuestos
 
-### **Jungheinrich de España SA**
+### **Jungheinrich de España sa**
 ###### 2005-2007
-`Economista`
+`Researcher`
+
+- Prospección de perfiles para nuevos puestos en los centros de Abrera, Zaragoza, Bilbao, Valencia, Madrid y Sevilla a través de organizaciones privadas y públicas -centros de intermediación laboral de ayuntamientos, universidades, escuelas de formación profesional, INEM, sindicatos y portales de empleo
+- Gestión en Website Corporativo
+- Elaboración, envio y seguimiento de anuncios en prensa nacional
+- Control de la recepción de currículos, primera y segunda criba
+- Análisis e implementación de procesos administrativos dentro de RRHH en colaboración con Controlling
 
 
 ### _Formación_
@@ -46,6 +57,8 @@ Check out our [documentation](https://help.github.com/categories/github-pages-ba
 
 - ### **First Certificate & Advanced in English** - Level A
 1994-1999 · English Academy SC - University of Cambridge
+
+- ### **Desarrollo Web y App**
 
 
 
