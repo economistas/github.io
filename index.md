@@ -63,12 +63,3 @@ Check out our [documentation](https://help.github.com/categories/github-pages-ba
 
 - ### **Desarrollo Web|App|IaaS Docker** -
 Actual · Self Learning Html,Css,Javascript,Php,Linux docker,Ionic, Linux servers
-
-
-
-
-
-**Bold** and _Italic_ and  text
-
-[Link](url) and ![Image](src)
-```
