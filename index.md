@@ -50,7 +50,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-#### · **Lic. en Administración de Empresas**
+- #### · **Lic. en Administración de Empresas**
 Institut Quimic de Sarrià · 1994-1999
 #### · **Master in New Media**
 Universitat Oberta de Catalunya · 2008-2010
