@@ -1,8 +1,8 @@
 ### Resumé Pedro Badia
 
-POLMAR TARBES  SL	06-04-2016 	
-BATAN DELTA 2 SL	20-07-2015 	
-LAURIA ESTUDIO JURIDICO 10-07-2013 
+Polmar Tarbes 	desde  06-04-2016 	
+Batan Delta 2 	desde 20-07-2015 	
+Lauria Estudio juridico desde 10-07-2013 
 
 You can use the [editor on GitHub](https://github.com/economistas/github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -51,7 +51,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 - ### **Lic. en Administración y Dirección de Empresas**
-1994-1999 · Institut Quimic de Sarrià 
+1994-1999 · [Institut Quimic de Sarrià](http://www.iqs.edu/es/grados-ade/grado-ade)
 
 - ### **Master in New Media**
 2008-2010 · Universitat Oberta de Catalunya
