@@ -1,7 +1,4 @@
-### Resumé Pedro Badia
-
-
-### _Experiencia_
+### _Experiencia Profesional_
 
 ### **Batan Delta 2 sl** ·_Sociedad que explota una finca forestal en PEIN Montseny_ | **Lauria Estudio juridico sl** | **Polmar Tarbes sl**
 ##### desde 10-07-2013 
