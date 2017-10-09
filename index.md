@@ -52,8 +52,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 #### Master in New Media | Universitat Oberta de Catalunya · 2008-2010
 
-#### 'Posgrado en Fiscalidad' | Universitat Oberta de Catalunya · 2006-2007 
+#### **Posgrado en Fiscalidad** | Universitat Oberta de Catalunya · 2006-2007 
 #### **Preparación a TOEFL y Proficicency** |Institut d'Estudis Nord Americans · 2000
-####  Licenciatura en Administración de Empresas | Institut Quimic de Sarrià · 1994-1999
-#### First Certificate & Advanced in English - Level A | English Academy SC - University of Cambridge · 1994-1999
+#### **Licenciatura en Administración de Empresas** | Institut Quimic de Sarrià · 1994-1999
+#### **First Certificate & Advanced in English** - Level A | English Academy SC - University of Cambridge · 1994-1999
 
