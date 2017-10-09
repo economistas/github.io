@@ -4,20 +4,20 @@
 ### _Experiencia_
 
 ### **Batan Delta 2** ·_Sociedad que explota una finca forestal en PEIN Montseny_
-(_desde 20-07-2015_)
+######(_desde 20-07-2015_)
 
 `Economista` 
-```javascript
+
 - Análisis de Lindes para la Gestión Forestal, Según Escrituras y Mapas Originales, Contrastación con Catastro Años
 - GPS 
 - Análisis, gestión e implementación del Plan Técnico Forestal PTF
 - Elaboración e implementación del proyecto de viabilidad económica de explotación de reservas de corcho
-```
 
- 	
-### Lauria Estudio juridico desde 10-07-2013 
+### **Lauria Estudio juridico**
+######desde 10-07-2013 
 
-### Polmar Tarbes 	desde  06-04-2016 	
+### **Polmar Tarbes**
+######desde  06-04-2016 	
 
 You can use the [editor on GitHub](https://github.com/economistas/github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
