@@ -1,7 +1,7 @@
 ### Resumé Pedro Badia
 
 
-## _Experiencia_
+### _Experiencia_
 
 **Batan Delta 2** 	_desde 20-07-2015_
 _Sociedad que explota una finca forestal en PEIN Montseny_
