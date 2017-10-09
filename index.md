@@ -1,8 +1,8 @@
 ## Resumé Pedro Badia
 
-POLMAR TARBES BIS, SL		APODERAD.SOL		06-04-2016 	
-BATAN DELTA DOS, SL		ADM.SOLIDAR.		20-07-2015 	
-LAURIA ESTUDIO JURIDICO, SL		APODERAD.SOL		10-07-2013 
+POLMAR TARBES  SL	06-04-2016 	
+BATAN DELTA 2 SL	20-07-2015 	
+LAURIA ESTUDIO JURIDICO 10-07-2013 
 
 You can use the [editor on GitHub](https://github.com/economistas/github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -46,3 +46,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## 2008 -2010 Universitat Oberta de Catalunya
+
+Master Multimedia
