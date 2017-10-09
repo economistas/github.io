@@ -32,6 +32,21 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+## Master in New Media
+2008-2010 Universitat Oberta de Catalunya 
+
+### Posgrado en Fiscalidad
+2006-2007 Universitat Oberta de Catalunya 
+### Preparación a TOEFL y Proficicency
+2000 Institut d'Estudis Nord Americans
+
+###  Licenciatura en Administración de Empresas
+1994-1999 Institut Quimic de Sarrià
+
+### First Certificate & Advanced in English - Level A
+1998 English Academy | University of Cambridge ·
+
+
 [Link](url) and ![Image](src)
 ```
 
