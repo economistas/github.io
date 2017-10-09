@@ -44,7 +44,6 @@
 
 ### _Formación_
 
-Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 - ### **Lic. en Administración y Dirección de Empresas**
 1994-1999 · [Institut Quimic de Sarrià](http://www.iqs.edu/es/grados-ade/grado-ade)
