@@ -1,6 +1,6 @@
 ### _Experiencia Profesional_
 
-### **Batan Delta 2 sl** ·_Sociedad que explota una finca forestal en PEIN Montseny_ | **Lauria Estudio juridico sl** | **Polmar Tarbes sl**
+### **Batan Delta 2 sl** ·_Sociedad que explota una finca forestal en PEIN Montseny_ | **Lauria Estudio juridico sl** _Asesoría Jurídica_ | **Polmar Tarbes sl**
 ##### desde 2007 
 
 `Economista` 
