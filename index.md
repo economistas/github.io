@@ -47,13 +47,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-### 2008-2010 Universitat Oberta de Catalunya · Master in New Media
+### Master in New Media
+2008-2010 Universitat Oberta de Catalunya 
 
-### 2006-2007 Universitat Oberta de Catalunya · Posgrado en Fiscalidad
+### Posgrado en Fiscalidad
+2006-2007 Universitat Oberta de Catalunya 
+### Preparación a TOEFL y Proficicency
+2000 Institut d'Estudis Nord Americans
 
-### 2000 Institut d'Estudis Nord Americans ·Preparación a TOEFL y Proficicency
+###  Licenciatura en Administración de Empresas
+1994-1999 Institut Quimic de Sarrià
 
-### 1994-1999 Institut Quimic de Sarrià Licenciatura en Administración de Empresas
-
-### 1998 English Academy | University of Cambridge · First Certificate & Advanced in English - Level A
+### First Certificate & Advanced in English - Level A
+1998 English Academy | University of Cambridge ·
 
