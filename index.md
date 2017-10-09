@@ -5,7 +5,10 @@
 
 ###### (_desde 20-07-2015_)
 ### **Batan Delta 2** ·_Sociedad que explota una finca forestal en PEIN Montseny_ 
-
+### **Lauria Estudio juridico**
+###### desde 10-07-2013 
+### **Polmar Tarbes**
+###### desde  06-04-2016
 
 `Economista` 
 
@@ -14,13 +17,7 @@
 - Análisis, gestión e implementación del Plan Técnico Forestal PTF
 - Elaboración e implementación del proyecto de viabilidad económica de explotación de reservas de corcho
 
-### **Lauria Estudio juridico**
-###### desde 10-07-2013 
-`Economista`
-
-### **Polmar Tarbes**
-###### desde  06-04-2016 	
-
+ 	
 ### **Asesoria Fiscal Cremades**
 ###### 2005-2007
 `Economista`
