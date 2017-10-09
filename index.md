@@ -51,13 +51,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 - ### **Lic. en Administración de Empresas**
-Institut Quimic de Sarrià · 1994-1999
+1994-1999 · Institut Quimic de Sarrià 
+
 - ### **Master in New Media**
-Universitat Oberta de Catalunya · 2008-2010
+2008-2010 · Universitat Oberta de Catalunya
+
 - ### **Posgrado en Fiscalidad**
-Universitat Oberta de Catalunya · 2006-2007 
+2006-2007 · Universitat Oberta de Catalunya
+
 - ### **Preparación a TOEFL y Proficicency**
-Institut d'Estudis Nord Americans · 2000
+2000 · Institut d'Estudis Nord Americans
+
 - ### **First Certificate & Advanced in English** - Level A
-English Academy SC - University of Cambridge · 1994-1999
+1994-1999 · English Academy SC - University of Cambridge
 
