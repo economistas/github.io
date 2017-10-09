@@ -23,6 +23,8 @@
 ### **Asesoria Fiscal Cremades**
 ###### 2005-2007
 `Economista`
+
+- Asesoria a clientes
 - Implementación de la ley de Protección de Datos
 - Contabilidad de Empresas. Cuadres de diario y Mayor
 - Liquidación de impuesto de sociedades, IVA. Principalmente modelos 201 y 202
@@ -37,6 +39,7 @@
 - Elaboración, envio y seguimiento de anuncios en prensa nacional
 - Control de la recepción de currículos, primera y segunda criba
 - Análisis e implementación de procesos administrativos dentro de RRHH en colaboración con Controlling
+- Entrevistas a Candidatos
 
 
 ### _Formación_
