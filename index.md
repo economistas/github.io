@@ -1,4 +1,4 @@
-## Resumé Pedro Badia
+##### Resumé Pedro Badia
 
 POLMAR TARBES  SL	06-04-2016 	
 BATAN DELTA 2 SL	20-07-2015 	
