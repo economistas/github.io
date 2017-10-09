@@ -58,7 +58,8 @@ Check out our [documentation](https://help.github.com/categories/github-pages-ba
 - ### **First Certificate & Advanced in English** - Level A
 1994-1999 · English Academy SC - University of Cambridge
 
-- ### **Desarrollo Web|App|IaaS Docker**
+- ### **Desarrollo Web|App|IaaS Docker** -
+Actual · Self Learning Html,Css,Javascript,Php,Linux docker,Ionic, Linux servers
 
 
 
