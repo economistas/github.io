@@ -50,10 +50,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-#### Master in New Media | Universitat Oberta de Catalunya · 2008-2010
-
+#### **Licenciatura en Administración de Empresas** | Institut Quimic de Sarrià · 1994-1999
+#### **Master in New Media** | Universitat Oberta de Catalunya · 2008-2010
 #### **Posgrado en Fiscalidad** | Universitat Oberta de Catalunya · 2006-2007 
 #### **Preparación a TOEFL y Proficicency** |Institut d'Estudis Nord Americans · 2000
-#### **Licenciatura en Administración de Empresas** | Institut Quimic de Sarrià · 1994-1999
 #### **First Certificate & Advanced in English** - Level A | English Academy SC - University of Cambridge · 1994-1999
 
