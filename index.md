@@ -50,8 +50,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-##### (Master in New Media)
-2008-2010 Universitat Oberta de Catalunya 
+#### Master in New Media | 2008-2010 | Universitat Oberta de Catalunya 
 
 ##### Posgrado en Fiscalidad
 2006-2007 Universitat Oberta de Catalunya 
