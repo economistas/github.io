@@ -4,14 +4,14 @@
 ### _Experiencia_
 
 ### **Batan Delta 2** ·_Sociedad que explota una finca forestal en PEIN Montseny_
-(_desde 20-07-2015_)
+>(_desde 20-07-2015_)
 
->`Economista` 
+`Economista` 
 
-'''- Análisis de Lindes para la Gestión Forestal, Según Escrituras y Mapas Originales, Contrastación con Catastro
+- Análisis de Lindes para la Gestión Forestal, Según Escrituras y Mapas Originales, Contrastación con Catastro
 - GPS Lindes
 - Gestión de Plan Técnico Forestal PTF
-- Elaboración e implementación del proyecto de viabilidad económica de explotación de reservas de corcho'''
+- Elaboración e implementación del proyecto de viabilidad económica de explotación de reservas de corcho
 
 
  	
