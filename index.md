@@ -3,7 +3,7 @@
 
 ### _Experiencia_
 
-### **Batan Delta 2** ·_Sociedad que explota una finca forestal en PEIN Montseny_ | **Lauria Estudio juridico** | ### **Polmar Tarbes**
+### **Batan Delta 2 sl** ·_Sociedad que explota una finca forestal en PEIN Montseny_ | **Lauria Estudio juridico sl** | **Polmar Tarbes sl**
 ##### desde 10-07-2013 
 
 `Economista` 
@@ -14,6 +14,8 @@
 - Elaboración e implementación del proyecto de viabilidad económica de explotación de reservas de corcho
 - Análisis y Valoración de Inmuebles
 - Gestión de Obras e Instalaciones eléctricas
+- Gestión de Alquileres de Inmuebles
+- Venta
 
  	
 ### **Asesoria Fiscal Cremades**
