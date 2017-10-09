@@ -1,4 +1,4 @@
-##### Resumé Pedro Badia
+### Resumé Pedro Badia
 
 POLMAR TARBES  SL	06-04-2016 	
 BATAN DELTA 2 SL	20-07-2015 	
@@ -32,8 +32,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-##### Master in New Media
-2008-2010 Universitat Oberta de Catalunya 
+### Master in New Media
+#####2008-2010 Universitat Oberta de Catalunya 
 
 ##### Posgrado en Fiscalidad
 2006-2007 Universitat Oberta de Catalunya 
