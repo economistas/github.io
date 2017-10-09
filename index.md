@@ -29,7 +29,7 @@
 - Resolución de Problemas Fiscales en la liquidación de Impuestos
 
 ### **Jungheinrich de España sa**
-###### 2005-2007
+###### 2002-2004
 `Researcher`
 
 - Prospección de perfiles para nuevos puestos en los centros de Abrera, Zaragoza, Bilbao, Valencia, Madrid y Sevilla a través de organizaciones privadas y públicas -centros de intermediación laboral de ayuntamientos, universidades, escuelas de formación profesional, INEM, sindicatos y portales de empleo
@@ -58,7 +58,7 @@ Check out our [documentation](https://help.github.com/categories/github-pages-ba
 - ### **First Certificate & Advanced in English** - Level A
 1994-1999 · English Academy SC - University of Cambridge
 
-- ### **Desarrollo Web y App**
+- ### **Desarrollo Web|App|IaaS Docker**
 
 
 
