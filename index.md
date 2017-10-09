@@ -1,8 +1,21 @@
 ### Resumé Pedro Badia
 
-Polmar Tarbes 	desde  06-04-2016 	
-Batan Delta 2 	desde 20-07-2015 	
+
+##_Experiencia_##
+
+Batan Delta 2 	_desde 20-07-2015_
+_Sociedad que explota una finca forestal en PEIN Montseny_
+Economista 
+- Análisis de Lindes para la Gestión Forestal, Según Escrituras y Mapas Originales, Contrastación con Catastro
+- GPS Lindes
+- Gestión de Plan Técnico Forestal PTF
+- Elaboración e implementación del proyecto de viabilidad económica de explotación de reservas de corcho
+
+
+ 	
 Lauria Estudio juridico desde 10-07-2013 
+
+Polmar Tarbes 	desde  06-04-2016 	
 
 You can use the [editor on GitHub](https://github.com/economistas/github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -46,7 +59,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/economistas/github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### _FORMACIÓN_
+### _Formación_
 
 Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
