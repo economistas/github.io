@@ -3,8 +3,7 @@
 
 ### _Experiencia_
 
-**Batan Delta 2** 	_desde 20-07-2015_
-_Sociedad que explota una finca forestal en PEIN Montseny_
+**Batan Delta 2** ·_Sociedad que explota una finca forestal en PEIN Montseny_ (_desde 20-07-2015_)
 Economista 
 
 - Análisis de Lindes para la Gestión Forestal, Según Escrituras y Mapas Originales, Contrastación con Catastro
